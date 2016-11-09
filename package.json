@@ -1,6 +1,6 @@
 {
   "name": "react-ace",
-  "version": "4.0.0",
+  "version": "1.0.0",
   "description": "A react component for Ace Editor",
   "main": "lib/ace.js",
   "scripts": {
@@ -84,6 +84,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/securingsincity/react-ace.git"
+    "url": "http://github.com/datacamp/react-ace.git"
   }
 }

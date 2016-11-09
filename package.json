@@ -60,7 +60,8 @@
   ],
   "dependencies": {
     "brace": "github:datacamp/brace",
-    "lodash.isequal": "^4.1.1"
+    "lodash.isequal": "^4.1.1",
+    "react": "^15.3.2"
   },
   "peerDependencies": {
     "react": "^0.13.0 || ^0.14.0 || ^15.0.1",

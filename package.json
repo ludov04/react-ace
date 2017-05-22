@@ -59,7 +59,7 @@
     "brace"
   ],
   "dependencies": {
-    "brace": "github:datacamp/brace",
+    "brace": "github:datacamp/brace#v0.10.0",
     "lodash.isequal": "^4.1.1",
     "react": "^15.3.2"
   },
